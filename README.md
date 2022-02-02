@@ -9,4 +9,4 @@ This repository have more java programs
 - pro7.java- smallest number from the three numbers
 - pro8.java- smallest number from the three numbers taking input form user
 - pro9.java- find lowercase, uppercase and specialcase character taking input from user
-- por10.java- find roots of quadratic equation
+- pro10.java- find roots of quadratic equation
