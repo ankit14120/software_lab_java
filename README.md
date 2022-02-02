@@ -1,7 +1,7 @@
 # JAVA Programs
 # software_lab
 This repository have more java programs
-first.java-
+- first.java-
 pro3.java-
 pro4.java-
 pro5.java-
