@@ -10,3 +10,10 @@ This repository have more java programs
 - pro8.java- smallest number from the three numbers taking input form user
 - pro9.java- find lowercase, uppercase and specialcase character taking input from user
 - pro10.java- find roots of quadratic equation
+- pro11.java- convert decimal to binary numbers
+- pro12.java- convert octal to binary numbers
+- pro13.java- convert hexadecimal to binary numbers
+- pro14.java- convert binary to decimal numbers
+- pro15.java- convert binary to octal numbers
+- pro16.java- convert binary to hexadecimal numbers
+- pro...
