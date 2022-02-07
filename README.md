@@ -16,4 +16,7 @@ This repository have more java programs
 - pro14.java- convert binary to decimal numbers
 - pro15.java- convert binary to octal numbers
 - pro16.java- convert binary to hexadecimal numbers
-- pro...
+- pro17.java- print table taking input from user
+- pro18.java- find square root taking input from user
+- pro19.java- find square root using inbulid function taking input from user
+- pro20.java- 
