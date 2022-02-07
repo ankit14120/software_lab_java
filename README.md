@@ -1,6 +1,6 @@
 # JAVA Programs
 # software_lab
-This repository have more java programs
+This repository java programs
 - first.java- hello world
 - pro3.java- arithematic operation of 2 numbers
 - pro4.java- arithematic operation of 2 numbers taking input from user
@@ -19,4 +19,4 @@ This repository have more java programs
 - pro17.java- print table taking input from user
 - pro18.java- find square root taking input from user
 - pro19.java- find square root using inbulid function taking input from user
-- pro20.java- 
+- pro20.java- generate fibonacci series
